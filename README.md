@@ -9,3 +9,6 @@ HOW TO USE :
 WHAT THE SCRIPT DO :
 
     INSTALL SFML, CSFML AND ALL THEIR DEPENDANCES
+
+
+![](images/sfml.png)
